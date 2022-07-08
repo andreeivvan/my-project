@@ -73,6 +73,7 @@ body  {
     0 12.5216px 10.0172px #00000009, 
     0 22.3363px 17.869px #00000007;
     margin-bottom: 1.5rem;
+    z-index: 50;
 }
 .header__link {
     font-size: 14px;

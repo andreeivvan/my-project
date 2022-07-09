@@ -8,10 +8,11 @@
 }
 a {
      text-decoration: none;
-     -webkit-tap-highlight-color: red;
 }
 
-
+a:active , a:hover{
+    outline: none;
+} 
 ul,
 ol
 li {

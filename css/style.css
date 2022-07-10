@@ -257,7 +257,7 @@ body  {
     background-color: #f6f6f6;
 }
 
-.project__img:active {
+.project__img:hover {
     position: relative;
     width: 100%;
     height:  200px;
